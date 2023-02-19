@@ -14,10 +14,10 @@ Focused on transfer learning and domain adaptation techniques in NILM and quanti
   <a href="https://github.com/mahnoor-shahid?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mahnoor-v20399/">   
+    <img alt="linkedin" title="Connect with me on Linkedin" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+  <a href="https://komarev.com/ghpvc/?username=mahnoor-shahid">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
@@ -57,5 +57,6 @@ Focused on transfer learning and domain adaptation techniques in NILM and quanti
 
 ### 📊 Github Usage Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mahnoor-shahid&theme=github-dark&hide_border=true&border_radius=10&mode=weekly&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahnoor-shahid&theme=gruvbox&hide_border=true&border_radius=10&type=png)](https://github.com/mahnoor-shahid?tab=repositories)
+
 <!-- https://streak-stats.demolab.com/demo/ -->
