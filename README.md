@@ -57,6 +57,5 @@ Focused on transfer learning and domain adaptation techniques in NILM and quanti
 
 ### 📊 Github Usage Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mahnoor-shahid&theme=github-dark&hide_border=true&border_radius=10&mode=weekly)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahnoor-shahid&theme=github-dark&hide_border=true&border_radius=10&mode=weekly&type=png)](https://git.io/streak-stats)
 <!-- https://streak-stats.demolab.com/demo/ -->
