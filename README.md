@@ -4,7 +4,7 @@
 
 Focused on transfer learning and domain adaptation techniques in NILM and quantitaively evaluating model generalization by estimating domain discrepancy.
 
-<p align="center">
+<!--<p align="center">>
 
 <!--  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
     <img alt="profile views" title="GitHub Profile Views" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> -->
