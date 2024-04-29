@@ -1,6 +1,6 @@
 # Mahnoor Shahid
 
-**`Research Assitant at DFKI | Graduate Student at Saarland University`**
+**`Research Associate at Universitat Duisberg Essen | PhD Student**
 
 Focused on transfer learning and domain adaptation techniques in NILM and quantitaively evaluating model generalization by estimating domain discrepancy.
 
