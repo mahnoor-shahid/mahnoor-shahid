@@ -1,6 +1,6 @@
 # Mahnoor Shahid
 
-**`Research Associate at Universitat Duisberg Essen | PhD Student`**
+**`Research Associate at University Duisberg Essen | PhD Student`**
 
 Focused on transfer learning and domain adaptation techniques in NILM and quantitaively evaluating model generalization by estimating domain discrepancy.
 
