@@ -2,7 +2,7 @@
 
 **`Research Associate at University Duisberg Essen | PhD Student`**
 
-Focused on transfer learning and domain adaptation techniques in NILM and quantitaively evaluating model generalization by estimating domain discrepancy.
+🧠 Neuro-Symbolic AI researcher (PhD) @ Uni Duisburg-Essen — 🤖 building agents that can reason with logic 🔗 symbol grounding & ⚡compositional generalization
 
 <!--<p align="center">>
 
