@@ -112,6 +112,7 @@
 
 #### 🧩 Agentic Frameworks
 
+<img height="38" alt="Langbase" src="https://img.shields.io/badge/Langbase-0D1117?style=flat-square&labelColor=0D1117" />
 <img height="38" alt="LangChain" src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=1C9C8B&labelColor=0D1117" />
 <img height="38" alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logo=langgraph&logoColor=1C9C8B&labelColor=0D1117" />
 <img height="38" alt="PydanticAI" src="https://img.shields.io/badge/PydanticAI-0D1117?style=flat-square&logo=pydantic&logoColor=E92063&labelColor=0D1117" />
@@ -193,12 +194,15 @@
 
 #### ☁️ Cloud & Infrastructure
 
+<img height="38" alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0D1117?style=flat-square&labelColor=0D1117" />
+<img height="38" alt="Microsoft Foundry" src="https://img.shields.io/badge/Microsoft%20Foundry-0D1117?style=flat-square&labelColor=0D1117" />
 <img height="38" alt="AWS EKS" src="https://img.shields.io/badge/AWS%20EKS-0D1117?style=flat-square&logo=amazoneks&logoColor=FF9900&labelColor=0D1117" />
 <img height="38" alt="AWS ECR" src="https://img.shields.io/badge/AWS%20ECR-0D1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900&labelColor=0D1117" />
 <img height="38" alt="AWS Batch" src="https://img.shields.io/badge/AWS%20Batch-0D1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900&labelColor=0D1117" />
 <img height="38" alt="ECS Fargate" src="https://img.shields.io/badge/ECS%20Fargate-0D1117?style=flat-square&logo=amazonecs&logoColor=FF9900&labelColor=0D1117" />
 <img height="38" alt="Docker" src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED&labelColor=0D1117" />
 <img height="38" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=326CE5&labelColor=0D1117" />
+<img height="38" alt="Hostinger" src="https://img.shields.io/badge/Hostinger-0D1117?style=flat-square&logo=hostinger&logoColor=673DE6&labelColor=0D1117" />
 <img height="38" alt="Helm" src="https://img.shields.io/badge/Helm-0D1117?style=flat-square&logo=helm&logoColor=277A9F&labelColor=0D1117" />
 <img height="38" alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF&labelColor=0D1117" />
 <img height="38" alt="Airflow" src="https://img.shields.io/badge/Airflow-0D1117?style=flat-square&logo=apacheairflow&logoColor=017CEE&labelColor=0D1117" />
